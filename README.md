@@ -1,0 +1,6 @@
+# Caffe-test
+Table 1 conv kernel size of Fire Module(Add pooling behind every fire Module)
+1	1×1	3×3	97%	84%
+2	1×1	5×5	97%	83%
+3	3×3	5×5	98%	84%
+4	5×5	7×7	95%	
