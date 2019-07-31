@@ -1,7 +1,6 @@
 # Caffe-test
 ## Table 1 conv kernel size of Fire Module(Add pooling behind every fire Module)
 
-
 | No.1  | expand1 | expand2 | top5-accuracy | accuracy |
 |:---- -:|:------:|:-------:|:-------------:|:--------:|
 |  1    |   1×1   |   3×3   |      97%      |   84%    |
